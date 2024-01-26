@@ -17,9 +17,6 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 - UI Frameworks: [Tailwind CSS]
 - Others: [Stripe for payment processing, etc.]
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
 
 ## 🌐 Connect with Me
 
