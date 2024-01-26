@@ -5,7 +5,7 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 
 ## 🧑‍💻 About Me
 
-- 🎓 National Post Graduate College: Final year Bachelor of Computer Applications
+- 🎓 National Post Graduate College: Final year / Bachelor of Computer Applications
 - 💼 Currently working on: Academic Hub
 - 🌱 Learning: Next js
 
