@@ -25,10 +25,8 @@ Feel free to explore my repositories, and don't hesitate to reach out if you hav
 
 ## 📂 Featured Projects
 
-### Nike clone
+### Agency7Growth Marketing and Advertising Website
 
-A simple static Nike clone website 
-
-
+This static website is designed and developed for Agency 7Growth, highlighting our expertise in marketing and advertising.
 
 Feel free to explore my projects and reach out for any collaboration or discussion. Let's connect and build something amazing together! 🚀
